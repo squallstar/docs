@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "LiteAPI",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#4e3aff",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -38,19 +38,8 @@
         "tab": "API Reference",
         "groups": [
           {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
+            "group": "Search API",
+            "openapi": "https://docs.liteapi.travel/openapi/65f068ae552b0e002b69ed15"
           }
         ]
       }
