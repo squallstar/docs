@@ -14,9 +14,9 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Introduction",
             "pages": [
-              "index"
+              "docs/overview"
             ]
           }
         ]
