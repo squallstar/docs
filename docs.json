@@ -4,8 +4,8 @@
   "name": "LiteAPI",
   "colors": {
     "primary": "#4e3aff",
-    "light": "#4e3aff",
-    "dark": "#4e3aff"
+    "light": "#F2F0FF",
+    "dark": "#8D5CFF"
   },
   "favicon": "/favicon.png",
   "navigation": {
