@@ -38,8 +38,32 @@
         "tab": "API Reference",
         "groups": [
           {
+            "group": "Hotel and Content API",
+            "openapi": "https://docs.liteapi.travel/openapi/65f068ae552b0e002b69ed17"
+          },
+          {
             "group": "Search API",
             "openapi": "https://docs.liteapi.travel/openapi/65f068ae552b0e002b69ed15"
+          },
+          {
+            "group": "Booking API",
+            "openapi": "https://docs.liteapi.travel/openapi/65f068ae552b0e002b69ed16"
+          },
+          {
+            "group": "Loyalty API",
+            "openapi": "https://docs.liteapi.travel/openapi/6694d01cf3b6b40019054248"
+          },
+          {
+            "group": "Vouchers API",
+            "openapi": "https://docs.liteapi.travel/openapi/66acb7d3f8ddc5005a93b893"
+          },
+          {
+            "group": "Analytics API",
+            "openapi": "https://docs.liteapi.travel/openapi/66e85d4a9eaae80036bd680a"
+          },
+          {
+            "group": "Supply customization API",
+            "openapi": "https://docs.liteapi.travel/openapi/6723638967a8e50022719e14"
           }
         ]
       }
